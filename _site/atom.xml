@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Thewhiteleafs</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2024-10-07T18:39:23+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2024-10-07T18:46:34+02:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Neo-Aristocracy</title>
-   <link href="http://localhost:4000/2024/10/07/neo-aristocracy"/>
+   <link href="/2024/10/07/neo-aristocracy"/>
    <updated>2024-10-07T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/10/07/neo-aristocracy</id>
+   <id>/2024/10/07/neo-aristocracy</id>
    <content type="html">
 </content>
  </entry>

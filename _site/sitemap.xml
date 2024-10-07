@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about</loc>
-<lastmod>2024-10-07T18:39:23+02:00</lastmod>
+<loc>/about</loc>
+<lastmod>2024-10-07T18:46:34+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/search</loc>
-<lastmod>2024-10-07T18:39:23+02:00</lastmod>
+<loc>/search</loc>
+<lastmod>2024-10-07T18:46:34+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2024/10/07/neo-aristocracy</loc>
+<loc>/2024/10/07/neo-aristocracy</loc>
 <lastmod>2024-10-07T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/ASI/</loc>
+<loc>/tag/ASI/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/post-scarcity/</loc>
+<loc>/tag/post-scarcity/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/neo-aristocracy/</loc>
+<loc>/tag/neo-aristocracy/</loc>
 </url>
 </urlset>
