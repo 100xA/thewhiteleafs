@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Thewhiteleafs",
-    "home_page_url": "/",
-    "feed_url": "/feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "thoughts",
-    "icon": "/apple-touch-icon.png",
-    "favicon": "/favicon.ico",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
     "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "/2024/10/07/neo-aristocracy",
+            "id": "http://localhost:4000/2024/10/07/neo-aristocracy",
             "title": "Neo-Aristocracy",
             "summary": "The rise of the neo-aristocracy in the age of post-scarcity",
             "content_text": "",
             "content_html": "",
-            "url": "/2024/10/07/neo-aristocracy",
+            "url": "http://localhost:4000/2024/10/07/neo-aristocracy",
             
             
             
