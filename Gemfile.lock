@@ -167,6 +167,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  bundler (~> 2.5)
   jekyll
   jekyll-paginate
   jekyll-seo-tag
