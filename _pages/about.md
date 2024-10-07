@@ -3,26 +3,23 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+> W błękicie nieba, podkowa krwawi,
+> Srebrzystym blaskiem w mroku się stawi.
+> Dwa krzyże płoną – jeden wzniesiony,
+> Drugi jak miecz między oceli wkorzony.
 
-### Features
+> Księżyc złocisty, świadek bitew krwawych,
+> Wojna i chwała w herbie się zjawi.
+> Z blizn i ran rodzi się honor wieczny,
+> Krwią bohaterów przesiąkł ten znak serdeczny.
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+<br>
 
-### Screenshot
+Thewhiteleafs is an independent blog written by Jan BozaWola.
+It is a collection of my own personal thoughts on various topics.
+It is a place where I share my thoughts and ideas, and where I hope to inspire others to think and create.
+<br>
+<br>
+**Thank you for taking the time to read**
 
-![Screenshot](screenshot.png)
+![Mishima](/about.png)
